@@ -1,14 +1,14 @@
 {
   "tests": [
     {
-      "name": "Test 'Hello World' output",
+      "name": "Test 'Hello, World!' output",
       "setup": "",
       "run": "python main.py",
       "input": "",
       "output": "Hello, World!",
-      "comparison": "included",
+      "comparison": "exact",
       "timeout": 10,
-      "points": null
+      "points": 5
     }
   ]
 }
